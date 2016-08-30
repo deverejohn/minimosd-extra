@@ -1,1 +1,1 @@
-Configurreing MinimOSD-Extra is doing trough Config Tool. One should set up own preferences and select panels to show on each screen.
+MinimOSD-Extra configuration is done using the Config Tool (OSD_Config.exe). The Config Tool gives the user access to all preferences and settings as well as a route for updating the firmware and OSD character set.  It also allows playback of a telemetry log to preview the display without having to connect to the flight controller.
